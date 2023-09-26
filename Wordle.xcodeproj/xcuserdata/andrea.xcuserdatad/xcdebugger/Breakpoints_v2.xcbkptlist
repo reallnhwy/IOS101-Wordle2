@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F2032697-ABDE-48D1-9829-16C95C2A4D8B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BCFA4D8F-510F-42EC-BCBD-38375119A4E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wordle/BoardController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "applyThemeSettings(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BCFA4D8F-510F-42EC-BCBD-38375119A4E0 - 61765b873d75df45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wordle.BoardController.applyThemeSettings(with: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "Wordle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrea/Library/Mobile%20Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/ios101-project2-wordle-starter-main/Wordle/BoardController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "BCFA4D8F-510F-42EC-BCBD-38375119A4E0 - 61765b873d75dfc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wordle.BoardController.applyThemeSettings(with: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "Wordle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrea/Library/Mobile%20Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/ios101-project2-wordle-starter-main/Wordle/BoardController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
